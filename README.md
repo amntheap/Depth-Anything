@@ -48,7 +48,7 @@ We provide **four models** of varying scales for robust relative depth estimatio
 
 ```bash
 git clone https://github.com/amntheap/Depth-Anything
-cd Depth-Anything-V2
+cd Depth-Anything
 pip install -r requirements.txt
 ```
 
